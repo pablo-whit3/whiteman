@@ -50,7 +50,7 @@ def search_contacts(pattern):
 def insert(name,phone):
     command = "INSERT INTO contacts(name, phone) VALUES(%s, %s)"
     with conn.cursor() as cur:
-        cur.execute(command)
+        cur.execute(command, (name, phone))
         conn.commit()
 
 def insert_from_console():
@@ -132,13 +132,13 @@ def main():
             update_phone(name, new_phone)
         elif choice == "6":
             phone = input("Phone: ")
-            new_name = input("New namee: ")
-            update_phone(phone, new_name)
+            new_name = input("New name: ")
+            update_name(phone, new_name)
         elif choice == "7":
             name = input("Name:")
             delete_by_name(name)
         elif choice == "8":
-            phone = input("Name:")
+            phone = input("Phone:")
             delete_by_phone(phone)
         elif choice == "0":
             break
