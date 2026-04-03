@@ -189,7 +189,7 @@ def main():
             insert_many(names,phones)
         elif choice == "12":
             limit = int(input("Show .. rows:"))
-            offset = int(input("Skip .. rows:"))
+            offset = int(input("Skip .. rows from start:"))
             contacts=get_contacts_paginated(limit, offset)
             print_contacts(contacts)
         elif choice == "13":
