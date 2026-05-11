@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Temirlan Uzykhanov",
+        "email": "timtimych2008@gmail.com",
+        "birthday": "2008-02-06",
+        "group": "School",
+        "phone": "+777-777-7777",
+        "type": "mobile"
+    },
+    {
+        "name": "Diana Ross",
+        "email": "di_ross@mail.com",
+        "birthday": "2005-05-05",
+        "group": "Family",
+        "phone": "+7-700-123-4567",
+        "type": "mobile"
+    },
+    {
+        "name": "Mom",
+        "email": "inessa.white@yahoo.com",
+        "birthday": "1972-07-12",
+        "group": "Family",
+        "phone": "+7-705-999-0011",
+        "type": "home"
+    },
+    {
+        "name": "Temirlan Uzykhanov",
+        "email": "timtimych2008@gmail.com",
+        "birthday": "2008-02-06",
+        "group": "School",
+        "phone": "+7-777-777-7777",
+        "type": "mobile"
+    },
+    {
+        "name": "Bob Smith",
+        "email": "bob.smith@mail.com",
+        "birthday": "1988-07-22",
+        "group": "Work",
+        "phone": "+7-777-234-5678",
+        "type": "work"
+    },
+    {
+        "name": "Carol White",
+        "email": "carol.white@gmail.com",
+        "birthday": "2000-01-05",
+        "group": "Family",
+        "phone": "+7-708-345-6789",
+        "type": "mobile"
+    },
+    {
+        "name": "David Brown",
+        "email": "david@example.com",
+        "birthday": "None",
+        "group": "Work",
+        "phone": "+7-771-456-7890",
+        "type": "mobile"
+    },
+    {
+        "name": "Eva Green",
+        "email": "eva.green@gmail.com",
+        "birthday": "1993-11-30",
+        "group": "Friend",
+        "phone": "+7-702-567-8901",
+        "type": "mobile"
+    },
+    {
+        "name": "Frank Black",
+        "email": "frank@mail.com",
+        "birthday": "1979-06-18",
+        "group": "Family",
+        "phone": "+7-777-678-9012",
+        "type": "home"
+    },
+    {
+        "name": "Grace Lee",
+        "email": "grace.lee@example.com",
+        "birthday": "None",
+        "group": "Friend",
+        "phone": "+7-702-789-0123",
+        "type": "mobile"
+    },
+    {
+        "name": "Henry King",
+        "email": "henry@company.com",
+        "birthday": "1985-09-09",
+        "group": "Work",
+        "phone": "+7-701-890-1234",
+        "type": "work"
+    }
+]

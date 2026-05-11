@@ -1,0 +1,1 @@
+folder with 4 fully completed projects with comments, needed for PP2 course
